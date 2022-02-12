@@ -1,0 +1,2 @@
+sudo apt install g++-multilib
+g++ -g -o main2 main2.cc -lstdc++
